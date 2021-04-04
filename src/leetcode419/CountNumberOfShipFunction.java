@@ -1,7 +1,7 @@
 package leetcode419;
 
 public class CountNumberOfShipFunction {
-	// O(1) extra memory without editing X to .
+	// O(1) memory without editing X to .
 	public int countBattleships(char[][] board) {
         int result = 0;
         
