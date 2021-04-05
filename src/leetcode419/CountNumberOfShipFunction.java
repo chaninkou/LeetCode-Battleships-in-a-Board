@@ -22,7 +22,7 @@ public class CountNumberOfShipFunction {
         return result;
     }
 	
-	// DFS that replace X to . whenever we see a ship
+	// DFS: replace X to . whenever we see a ship
     public int countBattleships1(char[][] board) {
         int result = 0;
         
